@@ -1,10 +1,8 @@
-a {
-    font-family: 'Sen', sans-serif;
-    color: green;
-    font-size: 30px;
-    
+img {
+    width: 300px;
+    margin: 30px;
 }
-a:hover {
-    color: lime;
-    text-decoration: none;
+img:hover {
+    width: 400px;
+    margin: 0px;
 }
